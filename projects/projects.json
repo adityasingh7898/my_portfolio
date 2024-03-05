@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Grocery Web App",
+    "desc": "Fully fledged CRUD Web-app based on different design patterns. Built using Python, Django, SQLite, Html, CSS, Bootstrap.",
+    "image": "grocery",
+    "category": "basicweb",
+    "links": {
+      "view": "https://adityasingh.pythonanywhere.com/customer_app/customer_home",
+      "code": "https://github.com/adityasingh7898/grocery_management"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "Web UI Clones",
+    "desc": " Netflix, Zomato, Spotify web UI clones using Html,css.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+ 
+
+]
